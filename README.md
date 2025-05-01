@@ -1,1 +1,1 @@
-# Parthbhaskar27-Plant-disease-detection-system-for-sustainable-agriculture
+Plant-disease-detection-system-for-sustainable-agriculture
