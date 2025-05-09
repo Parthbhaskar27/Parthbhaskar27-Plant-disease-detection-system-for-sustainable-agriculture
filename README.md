@@ -2,7 +2,11 @@ Plant-disease-detection-system-for-sustainable-agriculture
 
 1. Problem Statement -
 Agriculture is a cornerstone of many economies, but crop diseases significantly reduce yield and quality, affecting both farmers' income and food security. Traditionally, disease detection has relied on manual inspection, which is often slow, error-prone, and inaccessible in remote regions.
+
+
 Week - 1 
+
+
 To address this, we aim to develop a Plant Disease Detection System that leverages machine learning and computer vision techniques. This system will help in early and accurate identification of plant diseases, enabling farmers to take timely preventive or corrective actions. The objective is to create a scalable and user-friendly tool that supports sustainable agriculture by minimizing crop loss and optimizing pesticide usage.
 2. Pipeline (as discussed in the lecture)
 •	Data Collection:
@@ -17,7 +21,11 @@ To address this, we aim to develop a Plant Disease Detection System that leverag
    - Creating a web or mobile application where users can upload plant images and get real-time disease diagnosis.
 •	Continuous Improvement:
    - Incorporating user feedback and continuously updating the model with new disease data.
+
+     
 Week - 2
+
+
  Summary of Improvisations in our CNN Model
 Increased Depth and Complexity
 
