@@ -1,6 +1,6 @@
 Plant-disease-detection-system-for-sustainable-agriculture
 
-1. Problem Statement -
+ Problem Statement -
 Agriculture is a cornerstone of many economies, but crop diseases significantly reduce yield and quality, affecting both farmers' income and food security. Traditionally, disease detection has relied on manual inspection, which is often slow, error-prone, and inaccessible in remote regions.
 
 
